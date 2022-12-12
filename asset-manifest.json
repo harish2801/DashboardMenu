@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//harish2801.github.io/DashboardMenu/static/css/main.f7e68ffd.css",
+    "main.js": "/http//harish2801.github.io/DashboardMenu/static/js/main.e55bc344.js",
+    "index.html": "/http//harish2801.github.io/DashboardMenu/index.html",
+    "main.f7e68ffd.css.map": "/http//harish2801.github.io/DashboardMenu/static/css/main.f7e68ffd.css.map",
+    "main.e55bc344.js.map": "/http//harish2801.github.io/DashboardMenu/static/js/main.e55bc344.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7e68ffd.css",
+    "static/js/main.e55bc344.js"
+  ]
+}
